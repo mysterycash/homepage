@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+import "@fontsource/jetbrains-mono";
 
 :root {
   --bg: #94e2d5;
